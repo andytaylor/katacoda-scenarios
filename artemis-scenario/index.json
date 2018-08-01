@@ -6,8 +6,7 @@
       { "title": "Download the broker", "text": "download.md" },
       { "title": "Create the broker instance", "text": "create.md" },
       { "title": "Send Some Messages", "text": "send.md" },
-      { "title": "Receive Some Messages", "text": "consume.md" },
-      { "title": "Run a docker web server", "text": "dockerWebServer.md" }
+      { "title": "Receive Some Messages", "text": "consume.md" }
     ],
     "intro": {
       "text": "intro.md"
@@ -17,7 +16,6 @@
     },
     "assets": {
       "host01": [
-        { "file": "bootstrap.xml", "target": "~/" },
         { "file": "jolokia-access.xml", "target": "~/" },
         { "file": "Dockerfile", "target": "~/" },
         { "file": "index.html", "target": "~/" }
