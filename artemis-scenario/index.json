@@ -5,6 +5,7 @@
     "steps": [
       { "title": "Download the broker", "text": "download.md" },
       { "title": "Create the broker instance", "text": "create.md" },
+      { "title": "Send Some Messages", "text": "send.md" },
       { "title": "Run a docker web server", "text": "dockerWebServer.md" }
     ],
     "intro": {
@@ -25,8 +26,7 @@
   "environment": {
     "uilayout": "terminal-iframe",
     "dashboards": [
-      { "name": "console", "port": 8161, "host": "host01" },
-      { "name": "clients", "port": 80, "host": "host01" }
+      { "name": "console", "port": 8161, "host": "host01" }
     ]
   },
   "backend": {
