@@ -6,6 +6,7 @@
       { "title": "Download the broker", "text": "download.md" },
       { "title": "Create the broker instance", "text": "create.md" },
       { "title": "Send Some Messages", "text": "send.md" },
+      { "title": "Receive Some Messages", "text": "consume.md" },
       { "title": "Run a docker web server", "text": "dockerWebServer.md" }
     ],
     "intro": {
